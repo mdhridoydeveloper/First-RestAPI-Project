@@ -8,4 +8,6 @@ import (
 func main() {
 	fmt.Println("--")
 	log.Println(1)
+
+	fmt.Println("-")
 }
